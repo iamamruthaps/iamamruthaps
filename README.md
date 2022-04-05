@@ -1,4 +1,4 @@
-## Hey <img src="https://cdn.pixabay.com/photo/2020/09/24/17/48/woman-5599344_960_720.png" width="29px">, I'm [Amrutha PS!](https://www.linkedin.com/in/k-s-antony-micheal-6419bb19a/) 
+## Hey <img src="" width="29px">, I'm [Amrutha PS!](https://www.linkedin.com/in/k-s-antony-micheal-6419bb19a/) 
 
 <a href="https://www.linkedin.com/in/amrutha-p-s-3a57791b3/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -10,7 +10,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" height="260px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+<img align="right" alt="GIF" height="260px" src=https://cdn.pixabay.com/photo/2020/09/24/17/48/woman-5599344_960_720.png" />
 
 ### About Me 🚀
 🎓 👋 Hi, I’m Amrutha PS</br>
