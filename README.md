@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Amrutha PS!](https://www.linkedin.com/in/k-s-antony-micheal-6419bb19a/) 
+## Hey <img src="https://cdn.pixabay.com/photo/2020/09/24/17/48/woman-5599344_960_720.png" width="29px">, I'm [Amrutha PS!](https://www.linkedin.com/in/k-s-antony-micheal-6419bb19a/) 
 
 <a href="https://www.linkedin.com/in/amrutha-p-s-3a57791b3/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
