@@ -10,7 +10,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" height="260px" src=https://cdn.pixabay.com/photo/2020/09/24/17/48/woman-5599344_960_720.png" />
+<img align="right" alt="PNG" height="260px" src=https://cdn.pixabay.com/photo/2020/09/24/17/48/woman-5599344_960_720.png" />
 
 ### About Me 🚀
 🎓 👋 Hi, I’m Amrutha PS</br>
