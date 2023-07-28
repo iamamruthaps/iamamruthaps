@@ -18,7 +18,7 @@
 👨‍💻  I am passionate about Machine Learning, Web Dev & I enjoy learning new things. </br>
 🌱 I’m currently learning Git, DSA</br>
 🤔 I’m looking for help with Open source</br>
-😄 Pronouns: He/Him</br>
+
 
 ### Tech & Tools Preference
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
